@@ -14,7 +14,7 @@ git config	Exemplo:
 
  git commit
 
-
+git push https://github.com/robsferreira/dio-desafio-github-primeiro-repositorio.git
 
 
 
