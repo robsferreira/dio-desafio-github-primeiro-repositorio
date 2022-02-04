@@ -1,0 +1,22 @@
+PRINCIPAIS COMANDOS GIT:
+
+git config	Exemplo:
+
+ git config –global user.name “Seu nome”
+
+ git config –global user.email “Seu email”
+
+ git init
+
+ git clone
+ 
+ git add
+
+ git commit
+
+
+
+
+
+
+
